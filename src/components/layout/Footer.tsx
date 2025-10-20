@@ -69,6 +69,7 @@ const Footer = () => {
                 <a href="mailto:support@nexaitsolution.com" className="flex items-center text-gray-400 hover:text-white transition-colors">
                   <Mail className="w-5 h-5 mr-2" />
                  support@byfluence.com
+                  We Respond You Within 24 Hour
                 </a>
               </li>
               <li>
