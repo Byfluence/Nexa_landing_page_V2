@@ -68,7 +68,7 @@ const Footer = () => {
               <li>
                 <a href="mailto:support@nexaitsolution.com" className="flex items-center text-gray-400 hover:text-white transition-colors">
                   <Mail className="w-5 h-5 mr-2" />
-                 Support@Nexait-Tech.com
+                 support@byfluence.com
                 </a>
               </li>
               <li>
@@ -86,7 +86,7 @@ const Footer = () => {
               <li>
                 <div className="flex items-start text-gray-400">
                   <MapPin className="w-5 h-5 mr-2 mt-1 flex-shrink-0" />
-                  <span>Megenagna Avenue , Addis Abeba  </span>
+                  <span>Summit 72 National Building </span>
                 </div>
               </li>
             </ul>
