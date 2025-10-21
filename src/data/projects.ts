@@ -30,7 +30,7 @@ export const projects: Project[] = [
   },
   {
     id: '4',
-    title: 'Digital Marketing Dashboard',
+    title: 'ERP System Developement ',
     description: 'Comprehensive analytics dashboard for tracking and optimizing marketing campaigns.',
     category: 'Digital Marketing',
     imageUrl: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80',
