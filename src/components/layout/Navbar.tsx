@@ -40,11 +40,16 @@ const Navbar = () => {
         className="max-w-5xl mx-auto rounded-3xl bg-black/40 border border-white/10"
       >
         <div className="flex items-center justify-between px-6 py-5">
-          {/* Logo */}
+          {/* Logo + Name */}
           <Link 
             to="/" 
-            className="text-2xl font-bold bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent"
+            className="flex items-center text-2xl font-bold bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent"
           >
+            <img 
+              src="/path/to/logo.png"
+              alt="Logo"
+              className="w-8 h-8 mr-2"
+            />
             NEXA
           </Link>
 
