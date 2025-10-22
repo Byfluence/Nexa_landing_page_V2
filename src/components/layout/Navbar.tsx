@@ -46,7 +46,7 @@ const Navbar = () => {
             className="flex items-center text-2xl font-bold bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent"
           >
             <img 
-              src="/path/to/logo.png"
+              src="/path/assets/logo.png"
               alt="Logo"
               className="w-8 h-8 mr-2"
             />
