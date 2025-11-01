@@ -47,7 +47,7 @@ const Navbar = () => {
             style={{ minHeight: '48px' }} // Optional: consistent height for logo/text row
           >
             <img 
-              src="src/assets/logo.png"
+              src="/logo.png"
               alt="Logo"
               className="w-12 h-12 object-contain"
               style={{ minWidth: '50px', minHeight: '50px' }}

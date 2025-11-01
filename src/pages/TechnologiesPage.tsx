@@ -6,19 +6,19 @@ const products = [
   {
     title: "AI Chatbot",
     description: "An intelligent assistant that helps users find answers instantly, automate workflows, and boost productivity.",
-    image: "src/assets/byfluence.png",
+    image: "/byfluence.png",
     url: "https://byfluence.com/ "
   },
   {
     title: "Realtime Analytics",
     description: "Monitor your platform’s performance, usage, and user behavior with live, actionable insights.",
-    image: "src/assets/Add a heading.png",
+    image: "/Add a heading.png",
     url: "https://https://videyooadz.com/en-US"
   },
   {
     title: "Smart Notifications",
     description: "Get notified about important events, updates, and trends tailored to your needs.",
-    image: "src/assets/3.png",
+    image: "/3.png",
     url: "https://notifications.yourcompany.com"
   }
 ];
