@@ -1,9 +1,5 @@
 import { TeamMember } from '../types';
-<<<<<<< HEAD
 import EyasuImage from '../assets/eya.jpg';
-=======
-import EyasuImage from '../assets/Eyasu.jpg';
->>>>>>> 15ad8289c86f67b6732016e0adb835bdd9155e11
 import BrookImage from '../assets/brook.jpg';
 import FremnatosImage from '../assets/Fremnatos.jpg';
 
@@ -12,7 +8,7 @@ export const teamMembers: TeamMember[] = [
     id: '1',
     name: 'Eyasu Tilahun',
     role: 'CEO & Founder',
-    image: EyasuImage,
+    imageUrl: EyasuImage,
     socialLinks: {
       linkedin: 'https://www.linkedin.com/in/eyasu-tilahun-3128b618a/',
       twitter: 'https://x.com/e38234',
@@ -22,7 +18,7 @@ export const teamMembers: TeamMember[] = [
     id: '2',
     name: 'Biruk Tesfaye',
     role: 'CTO',
-    image: BrookImage,
+    imageUrl: BrookImage,
     socialLinks: {
       linkedin: 'https://www.linkedin.com/in/brook-tesfaye-worku/',
       twitter: 'https://x.com/brook_tesfa',
@@ -32,7 +28,7 @@ export const teamMembers: TeamMember[] = [
     id: '3',
     name: 'Fremnatos Abrham',
     role: 'Head of Design',
-    image: FremnatosImage,
+    imageUrl: FremnatosImage,
     socialLinks: {
       linkedin: 'https://www.linkedin.com/in/frumentius-abraham-b6a8382ba/',
       twitter: 'https://x.com/Da9i_Ab',

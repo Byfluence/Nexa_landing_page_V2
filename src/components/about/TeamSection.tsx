@@ -22,7 +22,7 @@ const TeamSection = () => {
               <div className="relative backdrop-blur-md bg-white/5 rounded-xl p-6 transition-all duration-300 hover:bg-white/10 border border-white/10">
                 <div className="relative aspect-[4/5] mb-6 overflow-hidden rounded-lg">
                   <img
-                    src={member.image}
+                    src={member.imageUrl}
                     alt={member.name}
                     className="absolute inset-0 w-full h-full object-cover object-center transform transition-transform duration-300 group-hover:scale-105"
                   />

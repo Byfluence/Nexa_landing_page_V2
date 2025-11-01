@@ -31,11 +31,7 @@ const Navbar = () => {
   );
 
   return (
-<<<<<<< HEAD
     <div className="fixed top-0 left-0 w-full z-50 px-4 sm:px-6 lg:px-8 py-3">
-=======
-    <div className="fixed top-0 left-0 w-full z-50 px-4 sm:px-6 lg:px-8 py-4">
->>>>>>> 15ad8289c86f67b6732016e0adb835bdd9155e11
       <motion.nav
         style={{
           opacity,
@@ -43,7 +39,6 @@ const Navbar = () => {
         }}
         className="max-w-5xl mx-auto rounded-3xl bg-black/40 border border-white/10"
       >
-<<<<<<< HEAD
         <div className="flex items-center justify-between px-6 py-2"> {/* Reduced padding */}
           {/* Logo + Name, with bigger image and better alignment */}
           <Link 
@@ -56,18 +51,6 @@ const Navbar = () => {
               alt="Logo"
               className="w-12 h-12 object-contain"
               style={{ minWidth: '50px', minHeight: '50px' }}
-=======
-        <div className="flex items-center justify-between px-6 py-5">
-          {/* Logo + Name */}
-          <Link 
-            to="/" 
-            className="flex items-center text-2xl font-bold bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent"
-          >
-            <img 
-              src="/path/assets/logo.png"
-              alt="Logo"
-              className="w-8 h-8 mr-2"
->>>>>>> 15ad8289c86f67b6732016e0adb835bdd9155e11
             />
             NEXA
           </Link>
