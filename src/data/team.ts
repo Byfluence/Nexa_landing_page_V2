@@ -1,5 +1,9 @@
 import { TeamMember } from '../types';
+<<<<<<< HEAD
 import EyasuImage from '../assets/eya.jpg';
+=======
+import EyasuImage from '../assets/Eyasu.jpg';
+>>>>>>> 15ad8289c86f67b6732016e0adb835bdd9155e11
 import BrookImage from '../assets/brook.jpg';
 import FremnatosImage from '../assets/Fremnatos.jpg';
 
